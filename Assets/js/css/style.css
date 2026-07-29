@@ -1,0 +1,53 @@
+
+head {
+  background-color: #f4f4f4;
+  padding: 10px;
+  text-align: center;
+}
+
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #050629;
+}
+
+/* Estilos del encabezado */
+header {
+  background-color: #b6b48c;
+  color: #010101;
+  padding: 20px;
+  text-align: center;
+}
+
+form {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #8dc631;
+  border-radius: 5px;
+  text-align: center
+  
+  ;
+}   
+
+form label {
+  color: #85a745;
+}
+
+main {
+  padding: 20px;
+}
+
+h2 {
+  color: #85a745;
+  margin-bottom: 10px;
+}
+
+
+h3 {
+  color: #9bb300;
+  margin-bottom: 10px;
+}
